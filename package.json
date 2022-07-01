@@ -1,0 +1,15 @@
+{
+  "name": "typescript-di",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NikitaSyromiatnikov/typescript-di.git",
+  "author": "Nikita Syromiatnikov <nikitasyromiatnikovdev@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^10.8.1"
+  }
+}
