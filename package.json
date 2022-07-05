@@ -1,7 +1,7 @@
 {
   "name": "typescript-di",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/NikitaSyromiatnikov/typescript-di.git",
   "author": "Nikita Syromiatnikov <nikitasyromiatnikovdev@gmail.com>",
   "license": "UNLICENSED",
@@ -11,5 +11,7 @@
   "devDependencies": {
     "reflect-metadata": "^0.1.13",
     "ts-node": "^10.8.1"
-  }
+  },
+  "description": "Simplest DI container able to resolve classes and initialize their fields",
+  "private": false
 }
